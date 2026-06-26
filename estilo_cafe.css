@@ -1,32 +1,35 @@
 body{
-    background-color:#D2B48C;
+    background-color:#F9E6E8;
     margin-left: 20%;
     margin-right: 20%;
-    border: 4px dotted #4A2C11;
+    border: 4px dotted #C4707F;
     padding: 10px 10px 10px 10px;
     font-family: sans-serif;
     }
     h1.titulo{
     
-    color: #4A2C11;
+    color: #D4899B;
     font-family: verdana;
     text-shadow: 4px 4px 4px rgb(185, 128, 82);
     font-size: 30pt;
     text-align: center;
     }
     h1{
-    color: #4A2C11;
+    color: #A84D62;
     font-family: verdana;
     text-shadow: 2px 2px 2px rgb(185, 128, 82)
     }
     h2{
-    color: #c59f6e;
+    color: #C4707F;
     text-shadow: 2px 2px 2px #000000;
     }
     img{
-    border: 4px solid #8B4513;
+    border: 4px solid #F5D0D5;
     object-fit: cover;
     transform: translateX(50%);
     }
     
-    p{ color: #5c4033; }
+    p{ color:#E8B4B8; }
+    text-shadow: 2px 2px 4px deeppink;
+    text-shadow: 1px 1px 2px black;
+    text-shadow: 0px 0px 20px lightpink;
